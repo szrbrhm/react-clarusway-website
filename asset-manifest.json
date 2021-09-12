@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-clarusway-website/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-clarusway-website/static/js/main.ffaf2763.chunk.js",
+    "main.js.map": "/react-clarusway-website/static/js/main.ffaf2763.chunk.js.map",
+    "runtime-main.js": "/react-clarusway-website/static/js/runtime-main.e072c24f.js",
+    "runtime-main.js.map": "/react-clarusway-website/static/js/runtime-main.e072c24f.js.map",
+    "static/js/2.d2f774f0.chunk.js": "/react-clarusway-website/static/js/2.d2f774f0.chunk.js",
+    "static/js/2.d2f774f0.chunk.js.map": "/react-clarusway-website/static/js/2.d2f774f0.chunk.js.map",
+    "static/js/3.21617f17.chunk.js": "/react-clarusway-website/static/js/3.21617f17.chunk.js",
+    "static/js/3.21617f17.chunk.js.map": "/react-clarusway-website/static/js/3.21617f17.chunk.js.map",
+    "index.html": "/react-clarusway-website/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-clarusway-website/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d2f774f0.chunk.js.LICENSE.txt": "/react-clarusway-website/static/js/2.d2f774f0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-clarusway-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e072c24f.js",
+    "static/js/2.d2f774f0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ffaf2763.chunk.js"
+  ]
+}
