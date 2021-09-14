@@ -16,7 +16,6 @@ const AppRouter = () => {
             <Switch>
                 <Route exact path="/about" component={About} />
                 <Route exact path="/services" component={Services} />
-                
                 <Route exact path="/html" component={Html} />
                 <Route exact path="/css" component={Css} />
                 <Route exact path="/logo" component={Logo} />
