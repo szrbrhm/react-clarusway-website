@@ -12,3 +12,24 @@ head{
 body{
   display: block;
 }
+
+#language{
+  width: 100%;
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+  overflow: auto;
+  background-color: white;
+
+}
+.language1{
+  text-align: center;
+}
+
+#htlm1{
+  color: black;
+}
+#language img{
+  width: 60px;
+}

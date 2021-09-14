@@ -1,0 +1,24 @@
+.footer{
+    border: 1px solid black ;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(241, 233, 233);
+    color: white;
+    margin-top: 10px;
+    position: fixed;
+    bottom: 0px;
+}
+#foot{
+    color: black;
+}
+
+
+#fot{
+    display: block;
+}
+p img {
+    align-items: center; 
+    width: 200px;
+    height: 40px;  
+}
