@@ -8,11 +8,13 @@ import Footer from '../components/Footer'
 import Html from '../pages/Html'
 import Css from '../pages/Css'
 import Logo from '../pages/Logo'
+import Subcrise from '../components/Subcrise'
 
 const AppRouter = () => {
     return (
         <Router>
             <Navbar />
+            <Subcrise/>
             <Switch>
                 <Route exact path="/about" component={About} />
                 <Route exact path="/services" component={Services} />
