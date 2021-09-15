@@ -9,7 +9,7 @@ const Subcrise = () => {
         </div>
         <div className="input">
             <input id="email" type="email" placeholder="Enter Email..."/>
-            <a id="subscrb" href="">Subsscribe</a>
+            <a id="subscrb">Subsscribe</a>
 
         </div>
         </div>

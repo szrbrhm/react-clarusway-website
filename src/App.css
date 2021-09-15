@@ -124,3 +124,16 @@ input{
   margin: 3px;
   border-radius: 5px;
 }
+
+.html{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.html-text{
+  text-align: start;
+  margin-top: 50px;
+  
+}
